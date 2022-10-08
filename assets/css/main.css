@@ -202,7 +202,12 @@ input, select, textarea {
 		font-style: italic;
 	}
 
-	p, ul, ol, dl, table {
+	p {
+		margin-bottom: 0.5em;
+		/* text-align: left; */
+	}
+
+	ul, ol, dl, table {
 		margin-bottom: 2em;
 	}
 
@@ -1796,10 +1801,15 @@ input, select, textarea {
 	ul {
 		list-style: disc;
 		padding-left: 1em;
+		padding-top: 1px;
+		margin-top: 1px;
 	}
 
 		ul li {
 			padding-left: 0.5em;
+			text-align: left;
+			padding-top: 0.0em;
+			margin-top: 0.0em;
 		}
 
 	ol {
@@ -2248,7 +2258,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/newbanner.jpg");
+				background-image: url("../../images/newbanner.png");
 			}
 
 			#main > section.two {
@@ -2256,8 +2266,12 @@ input, select, textarea {
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				background-color: #000000;
+				text-align: left;
 			}
+				#main > section.three h2 {
+					text-align: center;
+				}
 
 			#main > section.four {
 				background-color: #e8edec;
