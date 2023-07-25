@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ark.iitkgp@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>  [https://www.linkedin.com/in/arkarn/] (https://www.linkedin.com/in/arkarn/)
 <p align="left">
 </p>
 
