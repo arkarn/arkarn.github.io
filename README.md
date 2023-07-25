@@ -3,7 +3,7 @@
 
 - 🔭 I work on **ML based projects**
 
-- 🌱 I like to learn new stuff... **Research in deep learning**, **Quantum computing**
+- 🌱 I like to learn new stuff... **Advances in Deep Learning**, **Quantum Computing**
 
 - 👨‍💻 Some of my pet projects are available at [arkarn.github.io](arkarn.github.io)
 
