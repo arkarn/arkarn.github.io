@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">A passionate data scientist from Singapore</h3>
 
-- 🔭 I’m currently working on **Machine Learning based projects**
+- 🔭 I work on **ML based projects**
 
-- 🌱 I’m currently learning **Quantum computing**
+- 🌱 I like to learn new stuff... **Research in deep learning**, **Quantum computing**
 
-- 👨‍💻 All of my projects are available at [arkarn.ml](arkarn.ml)
+- 👨‍💻 Some of my pet projects are available at [arkarn.github.io](arkarn.github.io)
 
 - 💬 Ask me about **building data science solutions**
 
